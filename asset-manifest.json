@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/FitnessApp-React/static/css/main.7bf9d25a.css",
+    "main.js": "/FitnessApp-React/static/js/main.f1a098bd.js",
+    "static/media/banner.jpg": "/FitnessApp-React/static/media/banner.78df2ccb1a6113fb1c52.jpg",
+    "static/media/logo-1.jpg": "/FitnessApp-React/static/media/logo-1.4c71f8821dfcf4b4bdab.jpg",
+    "static/media/logo.jpg": "/FitnessApp-React/static/media/logo.81280ec2be29abfdff5c.jpg",
+    "static/media/left-arrow.png": "/FitnessApp-React/static/media/left-arrow.ccb6834c77795b3a7fa8.png",
+    "static/media/right-arrow.png": "/FitnessApp-React/static/media/right-arrow.395f646b84cca5945d8e.png",
+    "index.html": "/FitnessApp-React/index.html",
+    "main.7bf9d25a.css.map": "/FitnessApp-React/static/css/main.7bf9d25a.css.map",
+    "main.f1a098bd.js.map": "/FitnessApp-React/static/js/main.f1a098bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bf9d25a.css",
+    "static/js/main.f1a098bd.js"
+  ]
+}
